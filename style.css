@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    margin-top: 50px;
+}
+.love-scene iframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+}
+.quiz {
+    margin-top: 20px;
+}
+button {
+    padding: 10px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
